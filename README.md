@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Logo.png" alt="Picturescrape Logo" />
+</p>
+
 # Picturescrape
 
 Picturescrape is a desktop application written in Go using the Fyne toolkit, designed to scrape and download images from specified URLs.
@@ -12,7 +16,7 @@ Releases for Linux, Android and Windows.
 - Simple and intuitive GUI.
 
 <p align="center">
-  <img src="screenshot.png" alt="PictureScrape Screenshot" />
+  <img src="screenshot.png" alt="Picturescrape Screenshot" />
 </p>
 
 ## Prerequisites
