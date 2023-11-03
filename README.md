@@ -60,3 +60,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 - Colly for providing the scraping framework.
 - Fyne for the user-friendly GUI toolkit.
+<p align="center">
+  <img src="picturescrape.jpg" alt="Picturescrape AI Logo" />
+</p>
